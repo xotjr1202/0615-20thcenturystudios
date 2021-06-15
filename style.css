@@ -127,7 +127,6 @@ section {
 
 #titlemv {
   background-image: url(./images/b_contents.jpeg);
-  background-attachment: fixed;
 }
 
 #featured {
@@ -136,7 +135,6 @@ section {
 
 #digital {
   background-image: url(./images/b_contents3.jpeg);
-  background-attachment: fixed;
 }
 
 #videos {
