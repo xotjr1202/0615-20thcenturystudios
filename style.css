@@ -30,12 +30,12 @@ a {
 }
 
 h1.logo_title {
-  padding-top: 10px;
+  padding-top: 25px;
 }
 
 h1.logo_title img {
-  width: 100px;
-  padding-left: 20px;
+  width: 60px;
+  padding-left: 40px;
 }
 
 #gnb {
@@ -181,10 +181,11 @@ section {
 /* footer*/
 #main_footer {
   clear: both;
-  height: 300px;
   background: #000;
   color: #9b9b9b;
   padding: 0 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   text-align: center;
 }
 
